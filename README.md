@@ -1,6 +1,6 @@
 # 📁 File Explorer Lite
 
-A simple fullstack file explorer application built with **Node.js (Backend)** and **Vue.js (Frontend)**.
+A simple fullstack file explorer application built with **Nest JS (Backend)** and **Vue.js (Frontend)**.
 
 ---
 
